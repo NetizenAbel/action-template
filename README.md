@@ -1,8 +1,8 @@
-# template
+# {template}
 
 [![buymeacoffee][buymeacoffeebadge]][buymeacoffee]
 
-_Run "template" on ALL sh files in the repository._
+_Run {template} on ALL sh files in the repository._
 
 ## Example
 
