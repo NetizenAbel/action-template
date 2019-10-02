@@ -1,6 +1,5 @@
 # {template}
-
-[![buymeacoffee][buymeacoffeebadge]][buymeacoffee]
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/11f41fcaf1c14554b34793f5f086e7fd)](https://www.codacy.com/manual/kashaiahyah85/action-template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kashaiahyah85/action-template&amp;utm_campaign=Badge_Grade)  [![buymeacoffee][buymeacoffeebadge]][buymeacoffee]
 
 _Run {template} on ALL sh files in the repository._
 
